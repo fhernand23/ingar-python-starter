@@ -38,19 +38,22 @@ Volvemos al Explorer (primer ícono) y abrimos el archivo `programa1.py`.
 Cliqueamos ahí y seleccionamos el entorno creado `tutorial1`. Esto se hace una sola vez para todo el proyecto.
 ![Alt text](images/image3.png)
 9. Hay un pequeño ajuste que hay que hacer para que vscode funcione bien con ananconda python.
-Realizar lo siguiente en VS Code:
+Realizar lo siguiente dentro de VS Code:
 - opening the command palette (Control-Shift-P)
 - search for Terminal: Select Default Profile
 - select Command Prompt
-10. Van al menú `Terminal` -> `New terminal`. Deberían ver algo parecido a esto.
+10. Luego, ir al menú `Terminal` -> `New terminal`. Deberían ver algo parecido a esto.
 ![Alt text](images/image4.png)
+El prompt debería mostrar al principio entre paréntesis el environment de python con el que están trabajando.
 11. Pasando al tutorial, vamos a instalar las dependencias en el entorno. En este caso, tenemos que instalar las librerías `scikit-learn` y `matplotlib`.
 Ejecutamos:
 ```bash
 pip install scikit-learn
 pip install matplotlib
 ```
-12. Pegamos el código en el archivo.
+Así se instalan todas las librerías.
+12. Copiamos el código de [Plot randomly generated multilabel dataset](
+https://scikit-learn.org/stable/auto_examples/datasets/plot_random_multilabel_dataset.html#sphx-glr-auto-examples-datasets-plot-random-multilabel-dataset-py) y lo pegamos en el archivo 'programa1.py'.
 13. Ejecutamos haciendo click en el ícono `Run Python File`
 ![Alt text](images/image5.png)
 14. Listo
@@ -60,4 +63,5 @@ pip install matplotlib
 - Crear proyecto streamlit
 - Debuggear python code
 - Ejecutar Jupyter Notebooks
+- Utilizar proyecto existente con requirements.txt
 
