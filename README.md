@@ -30,8 +30,9 @@ conda create --name tutorial1 python=3.10
 4. Abrimos `vscode` -> `Open Folder` -> seleccionamos la carpeta recién creada
 5. Creamos un archivo llamado `programa1.py`
 6. Inmediatamente después de crear el archivo, nos va a preguntar si queremos instalar la extensión para Python. Seleccionamos Install.
-7. vscode tiene una barra lateral izquierda donde vamos a tener diferentes secciones (Explorer, Search, Source Control, Run & Debug, Extensions). Volvemos al Explorer y abrimos el archivo `programa1.py`.
+7. vscode tiene una barra lateral izquierda donde vamos a tener diferentes secciones (Explorer, Search, Source Control, Run & Debug, Extensions).
 ![Alt text](images/image1.png)
+Volvemos al Explorer (primer ícono) y abrimos el archivo `programa1.py`.
 8. En la esquina inferior derecha, vamos a ver un botón que dice `Select Interpreter`.
 ![Alt text](images/image2.png)
 Cliqueamos ahí y seleccionamos el entorno creado `tutorial1`. Esto se hace una sola vez para todo el proyecto.
