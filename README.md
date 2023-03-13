@@ -80,9 +80,8 @@ https://scikit-learn.org/stable/auto_examples/datasets/plot_random_multilabel_da
 14. Listo. Cualquier otro archivo `.py` que se cree en la carpeta esa va a utilizar el mismo `environment`.
 
 ## Siguientes pasos (TODO)
-- Subir proyecto a gitlab
+- Subir proyecto a github
 - Crear proyecto streamlit
-- Debuggear python code
+- Debuggear código python
 - Ejecutar Jupyter Notebooks
 - Utilizar proyecto existente con requirements.txt
-
