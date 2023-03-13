@@ -52,10 +52,13 @@ pip install scikit-learn
 pip install matplotlib
 ```
 Así se instalan todas las librerías.
+
 12. Copiamos el código de [Plot randomly generated multilabel dataset](
 https://scikit-learn.org/stable/auto_examples/datasets/plot_random_multilabel_dataset.html#sphx-glr-auto-examples-datasets-plot-random-multilabel-dataset-py) y lo pegamos en el archivo 'programa1.py'.
+
 13. Ejecutamos haciendo click en el ícono `Run Python File`
 ![Alt text](images/image5.png)
+
 14. Listo. Cualquier otro archivo `.py` que se cree en la carpeta esa va a utilizar el mismo `environment`.
 
 ## Siguientes pasos (TODO)
