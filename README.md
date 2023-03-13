@@ -21,7 +21,7 @@ Descargar y realizar la instalación con todos los valores por defecto.
 - La idea es generar un entorno que pueda ser reproducible por otra persona sin mayores conflictos.
 
 1. Supongamos que queremos crear un proyecto basado en este ejemplo utilizando la librería `scikit-learn`: [Plot randomly generated multilabel dataset](
-`https://scikit-learn.org/stable/auto_examples/datasets/plot_random_multilabel_dataset.html#sphx-glr-auto-examples-datasets-plot-random-multilabel-dataset-py`)
+https://scikit-learn.org/stable/auto_examples/datasets/plot_random_multilabel_dataset.html#sphx-glr-auto-examples-datasets-plot-random-multilabel-dataset-py)
 2. Creamos un entorno de python que vamos a utilizar para este proyecto. Abrimos `Anaconda Prompt` y creamos un entorno que se llame `tutorial1` con la versión de python 3.10.
 ```bash
 conda create --name tutorial1 python=3.10
