@@ -56,7 +56,7 @@ Así se instalan todas las librerías.
 https://scikit-learn.org/stable/auto_examples/datasets/plot_random_multilabel_dataset.html#sphx-glr-auto-examples-datasets-plot-random-multilabel-dataset-py) y lo pegamos en el archivo 'programa1.py'.
 13. Ejecutamos haciendo click en el ícono `Run Python File`
 ![Alt text](images/image5.png)
-14. Listo
+14. Listo. Cualquier otro archivo `.py` que se cree en la carpeta esa va a utilizar el mismo `environment`.
 
 ## Siguientes pasos (TODO)
 - Subir proyecto a gitlab
